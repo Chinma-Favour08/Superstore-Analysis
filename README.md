@@ -1,7 +1,7 @@
 # Sample-Superstore-Analysis-Report
 
 
-## Reporting Period: Up to May 24, 2015  
+## Reporting Tools
 Tools used: Excel, SQL, Power BI  
 Report Type: Sales Performance Dashboard
 
